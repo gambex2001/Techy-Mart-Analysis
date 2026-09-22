@@ -46,5 +46,6 @@ The dashboard provides a clear overview of Techy Mart's sales performance and he
 ## Contacts
 📧 [Email](mailto:gambarizulikifli@gmail.com)
 💬 [Chat on Whatsapp](https://wa.me/2347065804203)
+✓ [My linkedin Page](https://www.likedin.com/in/zulikifli-gambari-1a5545311)
 
 
