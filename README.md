@@ -44,5 +44,7 @@ Slicer → Category filtering
 The dashboard provides a clear overview of Techy Mart's sales performance and helps identify strong-performing products, locations, sales periods and payment channels.
 
 ## Contacts
+📧 [Email](mailto:gambarizulikifli@gmail.com)
+💬 [Chat on Whatsapp](https://wa.me/2347065804203)
 
 
